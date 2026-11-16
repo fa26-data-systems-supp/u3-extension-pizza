@@ -34,6 +34,8 @@ It released the artwork and artist datasets under CC0 1.0, which allows us to us
 
 
 ## References
+The Museum of Modern Art, “Pull requests”, https://github.com/MuseumofModernArt/collection, https://zenodo.org/records/24101193
+
 
 
 
